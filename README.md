@@ -26,6 +26,6 @@ python .\main.py
 <H4 align="center">
 Vehicles Detection, Tracking and Counting </H4>
 
-<img src="../screenshots/fig_1.png">
+<img src="./screenshots/fig_1.png">
 
-<img src="../screenshots/fig_2.png">
+<img src="./screenshots/fig_2.png">
